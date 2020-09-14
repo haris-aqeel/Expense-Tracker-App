@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Expense Tracker App
 
 Built with React Hooks (useState, useContext, useReducer) & Context API
@@ -12,3 +13,5 @@ Built with React Hooks (useState, useContext, useReducer) & Context API
 6.Show balance, expense and income totals
 7.Add new transaction and reflect in balance
 8.Delete item from DOM
+=======
+
